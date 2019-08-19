@@ -22,28 +22,29 @@
   * [JS30 by WesBos](https://javascript30.com/)
   * [FreeCodeCamp JS Algorithm and Data Structures Certification](https://learn.freecodecamp.org/)
   
-  Day | Subject(s) | Link | Log
+  Day | Subject(s) | Link | Tech
   --- | --- | --- | ---
-  1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | Log 1
-  2 | *Notes* | [Link]() | Log 2
-  3 | *Notes* | [Link]() | Log 3
-  4 | *Notes* | [Link]() | Log 4
-  5 | *Notes* | [Link]() | Log 5
-  6 | *Notes* | [Link]() | Log 6
-  7 | *Notes* | [Link]() | Log 7
-  8 | *Notes* | [Link]() | Log 8
-  9 | *Notes* | [Link]() | Log 9
-  10 | *Notes* | [Link]() | Log 10
-  11 | *Notes* | [Link]() | Log 11
-  12 | *Notes* | [Link]() | Log 12
-  13 | *Notes* | [Link]() | Log 13
-  14 | *Notes* | [Link]() | Log 14
-  15 | *Notes* | [Link]() | Log 15
-  16 | *Notes* | [Link]() | Log 16
-  17 | *Notes* | [Link]() | Log 17
-  18 | *Notes* | [Link]() | Log 18
-  19 | *Notes* | [Link]() | Log 19
-  20 | *Notes* | [Link]() | Log 20
+  1 | React TCG - Burger Builder Sections 151-184
+  Hello | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | React / Vanilla JavaSript
+  2 | *Notes* | [Link]() | Log
+  3 | *Notes* | [Link]() | Log
+  4 | *Notes* | [Link]() | Log
+  5 | *Notes* | [Link]() | Log
+  6 | *Notes* | [Link]() | Log
+  7 | *Notes* | [Link]() | Log
+  8 | *Notes* | [Link]() | Log
+  9 | *Notes* | [Link]() | Log
+  10 | *Notes* | [Link]() | Log
+  11 | *Notes* | [Link]() | Log
+  12 | *Notes* | [Link]() | Log
+  13 | *Notes* | [Link]() | Log
+  14 | *Notes* | [Link]() | Log
+  15 | *Notes* | [Link]() | Log
+  16 | *Notes* | [Link]() | Log
+  17 | *Notes* | [Link]() | Log
+  18 | *Notes* | [Link]() | Log
+  19 | *Notes* | [Link]() | Log 
+  20 | *Notes* | [Link]() | Log 
   
 
 ### Days 21-40: Ruby + Ruby on Rails
