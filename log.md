@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: August 19th, 2019
+### Day 1: August 19th, 2019
 
 **Today's Progress**: Worked on "React - The Complete Guide" & JS30 Day 17
 
@@ -9,7 +9,7 @@
 **Link to work:** 
 
 
-### Day 1: August 20th, 2019
+### Day 2: August 20th, 2019
 
 **Today's Progress**: 
 
@@ -18,7 +18,7 @@
 **Link to work:** 
 
 
-### Day 0: August 19th, 2019
+### Day 3: August 21st, 2019
 
 **Today's Progress**: 
 
