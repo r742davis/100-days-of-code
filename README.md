@@ -16,6 +16,9 @@
 ## General Schedule Outline
 
 ### Days 1-20: React + JS Algorithms and Data Structures
+  #### Learning Resources:
+  * React - The Complete Course https://www.udemy.com/react-the-complete-guide-incl-redux/
+  * JS30 by WesBos https://javascript30.com/
 
 ### Days 21-30: Ruby on Rails
 
