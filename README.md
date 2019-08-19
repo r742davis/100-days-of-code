@@ -17,8 +17,9 @@
 
 ### Days 1-20: React + JS Algorithms and Data Structures
   #### Learning Resources:
-  * React - The Complete Course https://www.udemy.com/react-the-complete-guide-incl-redux/
-  * JS30 by WesBos https://javascript30.com/
+  * [React - The Complete Course](https://www.udemy.com/react-the-complete-guide-incl-redux/)
+  * [JS30 by WesBos](https://javascript30.com/)
+  * [FreeCodeCamp JS Algorithm and Data Structures Certification](https://learn.freecodecamp.org/)
 
 ### Days 21-30: Ruby on Rails
 
