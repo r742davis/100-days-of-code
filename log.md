@@ -7,7 +7,7 @@
 **Thoughts:** 
 
 **Link to work:** 
-
+___
 
 ### Day 2: August 20th, 2019
 
@@ -16,7 +16,7 @@
 **Thoughts:** 
 
 **Link to work:** 
-
+___
 
 ### Day 3: August 21st, 2019
 
@@ -25,6 +25,7 @@
 **Thoughts:** 
 
 **Link to work:** 
+___
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
