@@ -25,7 +25,7 @@
   Day | Subject(s) | Link | Tech
   --- | --- | --- | ---
   1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | React / Vanilla JavaSript
-  2 | *Notes* | [Link]() | Log
+  2 | *Notes* | [Link]() | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
   3 | *Notes* | [Link]() | Log
   4 | *Notes* | [Link]() | Log
   5 | *Notes* | [Link]() | Log
