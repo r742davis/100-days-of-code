@@ -13,6 +13,7 @@
 * Ruby on Rails
 * Python + Django
 
+
 ## General Schedule Outline
 
 ### Days 1-20: React + JS Algorithms and Data Structures
@@ -20,6 +21,12 @@
   * [React - The Complete Course](https://www.udemy.com/react-the-complete-guide-incl-redux/)
   * [JS30 by WesBos](https://javascript30.com/)
   * [FreeCodeCamp JS Algorithm and Data Structures Certification](https://learn.freecodecamp.org/)
+  
+ Markdown | Less | Pretty
+--- | --- | ---
+*Still* | `renders` | **nicely**
+1 | 2 | 3
+  
 
 ### Days 21-30: Ruby + Ruby on Rails
   #### Learning Resources:
