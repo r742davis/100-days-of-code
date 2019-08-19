@@ -8,9 +8,11 @@
 
 ## Chosen Skills
 
-#### React
-#### Vanilla JavaScript
-#### Ruby on Rails
-#### Computer Science (Algorithms and Data Structures)
-#### Python + Django
+* React
+* Vanilla JavaScript
+* Ruby on Rails
+* Computer Science (Algorithms and Data Structures)
+* Python + Django
+
+
 
