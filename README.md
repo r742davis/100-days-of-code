@@ -22,9 +22,9 @@
   * [JS30 by WesBos](https://javascript30.com/)
   * [FreeCodeCamp JS Algorithm and Data Structures Certification](https://learn.freecodecamp.org/)
   
-  Day | Subject(s) | Link | Tech
-  --- | --- | --- | ---
-  1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | React / Vanilla JavaSript
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | --- 
+  1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
   2 | *Notes* | [Link]() | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
   3 | *Notes* | [Link]() | Log
   4 | *Notes* | [Link]() | Log
@@ -92,12 +92,86 @@
   50 | *Notes* | [Link]() | Log
   
 ### Days 51-60:
-
+  #### Learning Resources:
+  * []()
+  
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | ---
+  51 | *Notes* | [Link]() | Log
+  52 | *Notes* | [Link]() | Log
+  53 | *Notes* | [Link]() | Log
+  54 | *Notes* | [Link]() | Log
+  55 | *Notes* | [Link]() | Log
+  56 | *Notes* | [Link]() | Log
+  57 | *Notes* | [Link]() | Log
+  58 | *Notes* | [Link]() | Log
+  59 | *Notes* | [Link]() | Log
+  60 | *Notes* | [Link]() | Log
+  
 ### Days 61-70:
-
+  #### Learning Resources:
+  * []()
+  
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | ---
+  61 | *Notes* | [Link]() | Log
+  62 | *Notes* | [Link]() | Log
+  63 | *Notes* | [Link]() | Log
+  64 | *Notes* | [Link]() | Log
+  65 | *Notes* | [Link]() | Log
+  66 | *Notes* | [Link]() | Log
+  67 | *Notes* | [Link]() | Log
+  68 | *Notes* | [Link]() | Log
+  69 | *Notes* | [Link]() | Log
+  70 | *Notes* | [Link]() | Log
+  
 ### Days 71-80:
-
+  #### Learning Resources:
+  * []()
+  
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | ---
+  71 | *Notes* | [Link]() | Log
+  72 | *Notes* | [Link]() | Log
+  73 | *Notes* | [Link]() | Log
+  74 | *Notes* | [Link]() | Log
+  75 | *Notes* | [Link]() | Log
+  76 | *Notes* | [Link]() | Log
+  77 | *Notes* | [Link]() | Log
+  78 | *Notes* | [Link]() | Log
+  79 | *Notes* | [Link]() | Log
+  80 | *Notes* | [Link]() | Log
+  
 ### Days 81-90:
-
+  #### Learning Resources:
+  * []()
+  
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | ---
+  81 | *Notes* | [Link]() | Log
+  82 | *Notes* | [Link]() | Log
+  83 | *Notes* | [Link]() | Log
+  84 | *Notes* | [Link]() | Log
+  85 | *Notes* | [Link]() | Log
+  86 | *Notes* | [Link]() | Log
+  87 | *Notes* | [Link]() | Log
+  88 | *Notes* | [Link]() | Log
+  89 | *Notes* | [Link]() | Log
+  90 | *Notes* | [Link]() | Log
+  
 ### Days 91-100:
-
+  #### Learning Resources:
+  * []()
+  
+  Day | Subject(s) | Link | Log
+  --- | --- | --- | ---
+  91 | *Notes* | [Link]() | Log
+  92 | *Notes* | [Link]() | Log
+  93 | *Notes* | [Link]() | Log
+  94 | *Notes* | [Link]() | Log
+  95 | *Notes* | [Link]() | Log
+  96 | *Notes* | [Link]() | Log
+  97 | *Notes* | [Link]() | Log
+  98 | *Notes* | [Link]() | Log
+  99 | *Notes* | [Link]() | Log
+  100 | *Notes* | [Link]() | Log
