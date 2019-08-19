@@ -8,6 +8,8 @@
 
 **Thoughts:** I haven't been keeping up with JavaScript30 since Day 16 but I figured now is the best time to start it back up. I remember learning a good deal of small JS tricks that helped me with my portfolio.
 
+I finished Day 17: Sort Without Articles and learned how to combine RegEx with sorting to eliminate articles when sorting and array of titles. I also learned that you can use sort to treat strings like numbers via the function (a, b) logic.
+
 **Link(s) to work:** 
 * [React TCG Section 151](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview)
 * [JS30: Day 17](https://github.com/r742davis/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
