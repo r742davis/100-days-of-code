@@ -23,7 +23,7 @@
   * [FreeCodeCamp JS Algorithm and Data Structures Certification](https://learn.freecodecamp.org/)
   
   Day | Subject(s) | Link | Log
-  --- | --- | ---
+  --- | --- | --- | ---
   1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | Log 1
   
 
