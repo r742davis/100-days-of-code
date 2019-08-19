@@ -9,10 +9,15 @@
 ## Chosen Skills
 
 * React
-* Vanilla JavaScript
+* JS Algorithms and Data Structures
 * Ruby on Rails
-* Computer Science (Algorithms and Data Structures)
 * Python + Django
 
+## General Schedule Outline
 
+### Days 1-20: React + JS Algorithms and Data Structures
+
+### Days 21-30: Ruby on Rails
+
+### Days 31-40: NodeJS
 
