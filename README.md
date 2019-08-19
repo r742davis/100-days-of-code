@@ -24,11 +24,11 @@
   
   Day | Subject(s) | Link | Log
   --- | --- | --- | --- 
-  1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
-  2 | *Notes* | [Link]() | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
-  3 | *Notes* | [Link]() | Log
-  4 | *Notes* | [Link]() | Log
-  5 | *Notes* | [Link]() | Log
+  1 | React TCG - Burger Builder Sections 151-184 / JS30: 17 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
+  2 | JS30: 18 | [Link]() | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
+  3 | JS30: 19 | [Link]() | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
+  4 | JS30: 20 | [Link]() | [Log 4](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-4-august-22nd-2019)
+  5 | Project Fridays: Show the Local Weather / JS30: 21 | [Link](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather) | [Log 5](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-5-august-23rd-2019---project-fridays)
   6 | *Notes* | [Link]() | Log
   7 | *Notes* | [Link]() | Log
   8 | *Notes* | [Link]() | Log
