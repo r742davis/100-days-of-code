@@ -24,8 +24,7 @@
   
   Day | Subject(s) | Link | Tech
   --- | --- | --- | ---
-  1 | React TCG - Burger Builder Sections 151-184
-  Hello | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | React / Vanilla JavaSript
+  1 | React TCG - Burger Builder Sections 151-184 | [Link](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) | React / Vanilla JavaSript
   2 | *Notes* | [Link]() | Log
   3 | *Notes* | [Link]() | Log
   4 | *Notes* | [Link]() | Log
@@ -54,26 +53,26 @@
   
   Day | Subject(s) | Link | Log
   --- | --- | --- | ---
-  21 | *Notes* | [Link]() | Log 21
-  22 | *Notes* | [Link]() | Log 22
-  23 | *Notes* | [Link]() | Log 23
-  24 | *Notes* | [Link]() | Log 24
-  25 | *Notes* | [Link]() | Log 25
-  26 | *Notes* | [Link]() | Log 26
-  27 | *Notes* | [Link]() | Log 27
-  28 | *Notes* | [Link]() | Log 28
-  29 | *Notes* | [Link]() | Log 29
-  30 | *Notes* | [Link]() | Log 30
-  31 | *Notes* | [Link]() | Log 31
-  32 | *Notes* | [Link]() | Log 32
-  33 | *Notes* | [Link]() | Log 33
-  34 | *Notes* | [Link]() | Log 34
-  35 | *Notes* | [Link]() | Log 35
-  36 | *Notes* | [Link]() | Log 36
-  37 | *Notes* | [Link]() | Log 37
-  38 | *Notes* | [Link]() | Log 38
-  39 | *Notes* | [Link]() | Log 39
-  40 | *Notes* | [Link]() | Log 40
+  21 | *Notes* | [Link]() | Log
+  22 | *Notes* | [Link]() | Log
+  23 | *Notes* | [Link]() | Log
+  24 | *Notes* | [Link]() | Log
+  25 | *Notes* | [Link]() | Log
+  26 | *Notes* | [Link]() | Log
+  27 | *Notes* | [Link]() | Log
+  28 | *Notes* | [Link]() | Log
+  29 | *Notes* | [Link]() | Log
+  30 | *Notes* | [Link]() | Log
+  31 | *Notes* | [Link]() | Log
+  32 | *Notes* | [Link]() | Log
+  33 | *Notes* | [Link]() | Log
+  34 | *Notes* | [Link]() | Log
+  35 | *Notes* | [Link]() | Log
+  36 | *Notes* | [Link]() | Log
+  37 | *Notes* | [Link]() | Log
+  38 | *Notes* | [Link]() | Log
+  39 | *Notes* | [Link]() | Log
+  40 | *Notes* | [Link]() | Log
   
 ### Days 41-50:
   #### Learning Resources:
@@ -81,16 +80,16 @@
   
   Day | Subject(s) | Link | Log
   --- | --- | --- | ---
-  41 | *Notes* | [Link]() | Log 1
-  42 | *Notes* | [Link]() | Log 2
-  43 | *Notes* | [Link]() | Log 3
-  44 | *Notes* | [Link]() | Log 4
-  45 | *Notes* | [Link]() | Log 5
-  46 | *Notes* | [Link]() | Log 6
-  47 | *Notes* | [Link]() | Log 7
-  48 | *Notes* | [Link]() | Log 8
-  49 | *Notes* | [Link]() | Log 9
-  50 | *Notes* | [Link]() | Log 10
+  41 | *Notes* | [Link]() | Log
+  42 | *Notes* | [Link]() | Log
+  43 | *Notes* | [Link]() | Log
+  44 | *Notes* | [Link]() | Log
+  45 | *Notes* | [Link]() | Log
+  46 | *Notes* | [Link]() | Log
+  47 | *Notes* | [Link]() | Log
+  48 | *Notes* | [Link]() | Log
+  49 | *Notes* | [Link]() | Log
+  50 | *Notes* | [Link]() | Log
   
 ### Days 51-60:
 
