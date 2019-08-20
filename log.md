@@ -10,6 +10,10 @@
 
 I finished Day 17: Sort Without Articles and learned how to combine RegEx with sorting to eliminate articles when sorting and array of titles. I also learned that you can use sort to treat strings like numbers via the function (a, b) logic.
 
+I completed only section 151, but it was pretty long and I was having compatibility issues with the old version of React the instructor was using. The main issue was the wrapper AUX function he decided to use which is deprecated now. Instead, I used fragments for wrapping instead and also included a return in the functional component.
+
+Overall, today's JS30 was a nice little refresher on sorting functions and DOM manipulation. The debugging I had to do on my own was good practice for future React applications.
+
 **Link(s) to work:** 
 * [React TCG Section 151](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview)
 * [JS30: Day 17](https://github.com/r742davis/JavaScript30/tree/master/17%20-%20Sort%20Without%20Articles)
@@ -22,6 +26,7 @@ ___
 **Thoughts:** 
 
 **Link(s) to work:**  
+* [React TCG Section 152](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556484#questions/7944074)
 * [JS30: Day 18](https://github.com/r742davis/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 ___
 
