@@ -23,9 +23,10 @@ ___
 
 **Today's Progress**: JS30: Day 18
 
-**Thoughts:** 
+**Thoughts:** I never realized how useful .reduce() was! Apparently, if you want to use .map() and .filter() on the same dataset, it's better to pass the dataset through a .reduce() since it does the work once. That'd be great for speeding up a function! [Source](https://www.freecodecamp.org/news/reduce-f47a7da511a9/) You can also tally items in an array or object, which would be good for any kind of object mapping. 
 
-**Link(s) to work:**  
+**Link(s) to work:**
+* [CodePen Reduce Example](https://codepen.io/rdavis90/pen/VwZKood?editors=1011)
 * [React TCG Section 152](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556484#questions/7944074)
 * [JS30: Day 18](https://github.com/r742davis/JavaScript30/tree/master/18%20-%20Adding%20Up%20Times%20with%20Reduce)
 ___
