@@ -24,8 +24,8 @@
   
   Day | Subject(s) | Link | Log
   --- | --- | --- | --- 
-  1 | React TCG - Burger Builder Sections 151-184 / JS30: 17 | [React](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) [JS30](https://courses.wesbos.com/account/access/5cdb09df85f96c03c1e447c0/view/194128929) | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
-  2 | JS30: 18 | [Link]() | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
+  1 | React TCG - Burger Builder Section 151 / JS30: 17 | [React](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556476?start=0#overview) [JS30](https://courses.wesbos.com/account/access/5cdb09df85f96c03c1e447c0/view/194128929) | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
+  2 | React TCG - Burger Builder Sections 152-185 / JS30: 18 | [React](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556484#questions/7863348) [JS30](https://courses.wesbos.com/account/access/5cdb09df85f96c03c1e447c0/view/194128821) | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
   3 | JS30: 19 | [Link]() | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
   4 | JS30: 20 | [Link]() | [Log 4](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-4-august-22nd-2019)
   5 | Project Fridays: Show the Local Weather / JS30: 21 | [Link](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather) | [Log 5](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-5-august-23rd-2019---project-fridays)
