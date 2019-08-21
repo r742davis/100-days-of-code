@@ -25,6 +25,8 @@ ___
 
 **Thoughts:** I never realized how useful .reduce() was! Apparently, if you want to use .map() and .filter() on the same dataset, it's better to pass the dataset through a .reduce() since it does the work once. That'd be great for speeding up a function! [Source](https://www.freecodecamp.org/news/reduce-f47a7da511a9/) You can also tally items in an array or object, which would be good for any kind of object mapping. 
 
+I learned how to flatten arrays with .reduce() in case there are no values inputted by the state in React. I also practiced nesting .map() functions inside each other in order to populate multiple arrays with different numbers of values per array. 
+
 **Link(s) to work:**
 * [CodePen Reduce Example](https://codepen.io/rdavis90/pen/VwZKood?editors=1011)
 * [React TCG Section 152](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/13556484#questions/7944074)
@@ -38,7 +40,9 @@ ___
 **Thoughts:** 
 
 **Link(s) to work:** 
+* [React TCG Section 160](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/8109026?start=0#overview)
 * [JS30: Day 19](https://github.com/r742davis/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
+* [FreeCodeCamp - Data Structures](https://learn.freecodecamp.org/javascript-algorithms-and-data-structures/basic-data-structures)
 ___
 
 ### Day 4: August 22nd, 2019
