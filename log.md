@@ -37,7 +37,11 @@ ___
 
 **Today's Progress**: JS30: Day 19
 
-**Thoughts:** 
+**Thoughts:** Finished the Webcam JS30 challenge and played around with the rgb values. I completed the FreeCodeCamp basic dtaa structures section. I already knew the material, but it was a nice refresher because it's easy to forget some of the array functions. 
+
+.unshift() adds items to beginning of array, .shift() removes items from beginning of array, .pop() removes items from end of array, and .push() adds items to the end of the array. Splice vs slice (adds vs removes)
+
+Also, is it just me or is the spread operator (...) really fun to use? I love how versatile it is. You can basically do all of the same array functions with just the spread operator.
 
 **Link(s) to work:** 
 * [React TCG Section 160](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/8109026?start=0#overview)
