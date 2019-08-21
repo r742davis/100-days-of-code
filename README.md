@@ -26,7 +26,7 @@
   --- | --- | --- 
   1 | React TCG - Burger Builder Section 151 / JS30: 17 | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
   2 | React TCG - Burger Builder Sections 152-159 / JS30: 18 | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
-  3 | JavaScript Debugging / React TCG Sections 160-170 / JS30: 19 | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
+  3 | Data Structures / React TCG Sections 160-170 / JS30: 19 | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
   4 | JS30: 20 | [Log 4](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-4-august-22nd-2019)
   5 | Project Fridays: Show the Local Weather / JS30: 21 | [Log 5](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-5-august-23rd-2019---project-fridays)
   6 | *Notes*  | Log
@@ -51,127 +51,127 @@
   * [Ruby - The Odin Project](https://www.theodinproject.com/courses/ruby-programming)
   * [Rails - The Odin Project](https://www.theodinproject.com/courses/ruby-on-rails)
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  21 | *Notes* | [Link]() | Log
-  22 | *Notes* | [Link]() | Log
-  23 | *Notes* | [Link]() | Log
-  24 | *Notes* | [Link]() | Log
-  25 | *Notes* | [Link]() | Log
-  26 | *Notes* | [Link]() | Log
-  27 | *Notes* | [Link]() | Log
-  28 | *Notes* | [Link]() | Log
-  29 | *Notes* | [Link]() | Log
-  30 | *Notes* | [Link]() | Log
-  31 | *Notes* | [Link]() | Log
-  32 | *Notes* | [Link]() | Log
-  33 | *Notes* | [Link]() | Log
-  34 | *Notes* | [Link]() | Log
-  35 | *Notes* | [Link]() | Log
-  36 | *Notes* | [Link]() | Log
-  37 | *Notes* | [Link]() | Log
-  38 | *Notes* | [Link]() | Log
-  39 | *Notes* | [Link]() | Log
-  40 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | ---
+  21 | *Notes* | Log
+  22 | *Notes* | Log
+  23 | *Notes* | Log
+  24 | *Notes* | Log
+  25 | *Notes* | Log
+  26 | *Notes* | Log
+  27 | *Notes* | Log
+  28 | *Notes* | Log
+  29 | *Notes* | Log
+  30 | *Notes* | Log
+  31 | *Notes* | Log
+  32 | *Notes* | Log
+  33 | *Notes* | Log
+  34 | *Notes* | Log
+  35 | *Notes* | Log
+  36 | *Notes* | Log
+  37 | *Notes* | Log
+  38 | *Notes* | Log
+  39 | *Notes* | Log
+  40 | *Notes* | Log
   
 ### Days 41-50:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  41 | *Notes* | [Link]() | Log
-  42 | *Notes* | [Link]() | Log
-  43 | *Notes* | [Link]() | Log
-  44 | *Notes* | [Link]() | Log
-  45 | *Notes* | [Link]() | Log
-  46 | *Notes* | [Link]() | Log
-  47 | *Notes* | [Link]() | Log
-  48 | *Notes* | [Link]() | Log
-  49 | *Notes* | [Link]() | Log
-  50 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | --- 
+  41 | *Notes* | Log
+  42 | *Notes* | Log
+  43 | *Notes* | Log
+  44 | *Notes* | Log
+  45 | *Notes* | Log
+  46 | *Notes* | Log
+  47 | *Notes* | Log
+  48 | *Notes* | Log
+  49 | *Notes* | Log
+  50 | *Notes* | Log
   
 ### Days 51-60:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  51 | *Notes* | [Link]() | Log
-  52 | *Notes* | [Link]() | Log
-  53 | *Notes* | [Link]() | Log
-  54 | *Notes* | [Link]() | Log
-  55 | *Notes* | [Link]() | Log
-  56 | *Notes* | [Link]() | Log
-  57 | *Notes* | [Link]() | Log
-  58 | *Notes* | [Link]() | Log
-  59 | *Notes* | [Link]() | Log
-  60 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | ---
+  51 | *Notes* | Log
+  52 | *Notes* | Log
+  53 | *Notes* | Log
+  54 | *Notes* | Log
+  55 | *Notes* | Log
+  56 | *Notes* | Log
+  57 | *Notes* | Log
+  58 | *Notes* | Log
+  59 | *Notes* | Log
+  60 | *Notes* | Log
   
 ### Days 61-70:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  61 | *Notes* | [Link]() | Log
-  62 | *Notes* | [Link]() | Log
-  63 | *Notes* | [Link]() | Log
-  64 | *Notes* | [Link]() | Log
-  65 | *Notes* | [Link]() | Log
-  66 | *Notes* | [Link]() | Log
-  67 | *Notes* | [Link]() | Log
-  68 | *Notes* | [Link]() | Log
-  69 | *Notes* | [Link]() | Log
-  70 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | ---
+  61 | *Notes* | Log
+  62 | *Notes* | Log
+  63 | *Notes* | Log
+  64 | *Notes* | Log
+  65 | *Notes* | Log
+  66 | *Notes* | Log
+  67 | *Notes* | Log
+  68 | *Notes* | Log
+  69 | *Notes* | Log
+  70 | *Notes* | Log
   
 ### Days 71-80:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  71 | *Notes* | [Link]() | Log
-  72 | *Notes* | [Link]() | Log
-  73 | *Notes* | [Link]() | Log
-  74 | *Notes* | [Link]() | Log
-  75 | *Notes* | [Link]() | Log
-  76 | *Notes* | [Link]() | Log
-  77 | *Notes* | [Link]() | Log
-  78 | *Notes* | [Link]() | Log
-  79 | *Notes* | [Link]() | Log
-  80 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | ---
+  71 | *Notes* | Log
+  72 | *Notes* | Log
+  73 | *Notes* | Log
+  74 | *Notes* | Log
+  75 | *Notes* | Log
+  76 | *Notes* | Log
+  77 | *Notes* | Log
+  78 | *Notes* | Log
+  79 | *Notes* | Log
+  80 | *Notes* | Log
   
 ### Days 81-90:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
-  --- | --- | --- | ---
-  81 | *Notes* | [Link]() | Log
-  82 | *Notes* | [Link]() | Log
-  83 | *Notes* | [Link]() | Log
-  84 | *Notes* | [Link]() | Log
-  85 | *Notes* | [Link]() | Log
-  86 | *Notes* | [Link]() | Log
-  87 | *Notes* | [Link]() | Log
-  88 | *Notes* | [Link]() | Log
-  89 | *Notes* | [Link]() | Log
-  90 | *Notes* | [Link]() | Log
+  Day | Subject(s) | Log
+  --- | --- | ---
+  81 | *Notes* | Log
+  82 | *Notes* | Log
+  83 | *Notes* | Log
+  84 | *Notes* | Log
+  85 | *Notes* | Log
+  86 | *Notes* | Log
+  87 | *Notes* | Log
+  88 | *Notes* | Log
+  89 | *Notes* | Log
+  90 | *Notes* | Log
   
 ### Days 91-100:
   #### Learning Resources:
   * []()
   
-  Day | Subject(s) | Link | Log
+  Day | Subject(s) | Log
   --- | --- | --- | ---
-  91 | *Notes* | [Link]() | Log
-  92 | *Notes* | [Link]() | Log
-  93 | *Notes* | [Link]() | Log
-  94 | *Notes* | [Link]() | Log
-  95 | *Notes* | [Link]() | Log
-  96 | *Notes* | [Link]() | Log
-  97 | *Notes* | [Link]() | Log
-  98 | *Notes* | [Link]() | Log
-  99 | *Notes* | [Link]() | Log
-  100 | *Notes* | [Link]() | Log
+  91 | *Notes* | Log
+  92 | *Notes* | Log
+  93 | *Notes* | Log
+  94 | *Notes* | Log
+  95 | *Notes* | Log
+  96 | *Notes* | Log
+  97 | *Notes* | Log
+  98 | *Notes* | Log
+  99 | *Notes* | Log
+  100 | *Notes* | Log
