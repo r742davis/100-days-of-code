@@ -26,7 +26,7 @@
   --- | --- | --- 
   1 | React TCG - Burger Builder Section 151 / JS30: 17 | [Log 1](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-1-august-19th-2019)
   2 | React TCG - Burger Builder Sections 152-159 / JS30: 18 | [Log 2](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-2-august-20th-2019)
-  3 | Data Structures / React TCG Sections 160-170 / JS30: 19 | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
+  3 | Data Structures / JS30: 19 | [Log 3](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-3-august-21st-2019)
   4 | JS30: 20 | [Log 4](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-4-august-22nd-2019)
   5 | Project Fridays: Show the Local Weather / JS30: 21 | [Log 5](https://github.com/r742davis/100-days-of-code/blob/master/log.md#day-5-august-23rd-2019---project-fridays)
   6 | *Notes*  | Log
