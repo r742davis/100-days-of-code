@@ -53,22 +53,109 @@ ___
 
 **Today's Progress**: JS30: Day 20
 
-**Thoughts:** 
+**Thoughts:** Today was a light day overall. I am in the middle of job training for a side job as a server, so my time has been limited. I completed the speech detection JS30 challenge, which was really cool! I definitely want to integrate that functionality into my future apps since it's built right into JavaScript.
 
 **Link(s) to work:** 
 * [JS30: Day 20](https://github.com/r742davis/JavaScript30/tree/master/20%20-%20Speech%20Detection)
 ___
 
-### Day 5: August 23rd, 2019 - *Project Fridays*
+### Day 5: August 24th, 2019
 
-**Today's Progress**: "Show the Weather" Project & JS30: Day 21
+**Today's Progress**: JS30: Day 21 / Mug Club App Planning / Algorithm Practice
+
+**Thoughts:** I had to skip Friday because of job training. Today will be a light day comprised of JS30 and translating some code notes into my Mug Club app. I figured out the preliminary data structure for the app, now I need to configure the backend to add the info to the user correctly. I also soldified a general frontend design which will undoubtedly change.
+
+Instead of doing a short project Friday, I will do one on Sunday instead.
+
+**Link(s) to work:** 
+* [JS30: Day 21](https://github.com/r742davis/JavaScript30/tree/master/21%20-%20Geolocation)
+___
+
+
+### Day 6: August 25th, 2019
+
+**Today's Progress**: 
 
 **Thoughts:** 
 
 **Link(s) to work:** 
 * [Show the Weather Project](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather)
 * [Project App GitHub]()
-* [JS30: Day 21](https://github.com/r742davis/JavaScript30/tree/master/21%20-%20Geolocation)
+___
+
+### Day 7: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 8: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 9: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 10: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 11: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 12: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 13: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
+___
+
+### Day 14: August 25th, 2019
+
+**Today's Progress**: 
+
+**Thoughts:** 
+
+**Link(s) to work:** 
 ___
 
 
+
+Python Section Resources and Links:
+- https://www.freecodecamp.org/news/20-lines-of-python-code-get-notified-by-sms-when-your-favorite-team-scores-a-goal/
