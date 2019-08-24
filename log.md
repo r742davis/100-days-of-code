@@ -159,3 +159,4 @@ ___
 
 Python Section Resources and Links:
 - https://www.freecodecamp.org/news/20-lines-of-python-code-get-notified-by-sms-when-your-favorite-team-scores-a-goal/
+- https://www.freecodecamp.org/news/how-to-build-an-e-commerce-website-with-django-and-python/
