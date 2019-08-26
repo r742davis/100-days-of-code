@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log
+# 100 Days Of Code - Log 🖥
 
 ## Days 1-20: React + JS Algorithms and Data Structures
 
@@ -74,25 +74,27 @@ ___
 
 ### Day 6: August 25th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: JS30: Day 21 & 22 / React TCG Sections 160-165
+
+**Thoughts:** Today was a late coding day, but I was still able to squeeze in some good coding sessions before I went to bed. My new work schedule has thrown me through a loop, but this is an opportunity to build my time management skills. It's also the perfect time to learn how to say no! I have a problem with overcommitting, so being able to manage this 100 Days of Code challenge with my coder job search, server job, instruction postion, and day to day life will be part of my overall growth as a programmer.
+
+**Link(s) to work:** 
+* [JS30](https://github.com/r742davis/JavaScript30)
+* [React Section 160](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/8109026#overview)
+___
+
+### Day 7: August 26th, 2019 (Monday)
+
+**Today's Progress**: JS30: Day 23 / React TCG Sections 166 - 175
 
 **Thoughts:** 
 
 **Link(s) to work:** 
-* [Show the Weather Project](https://learn.freecodecamp.org/coding-interview-prep/take-home-projects/show-the-local-weather)
-* [Project App GitHub]()
+* [JS30: Day 23](https://courses.wesbos.com/account/access/5cdb09df85f96c03c1e447c0/view/194128242)
+* [React Section 166](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/8109040#overview)
 ___
 
-### Day 7: August 25th, 2019
-
-**Today's Progress**: 
-
-**Thoughts:** 
-
-**Link(s) to work:** 
-___
-
-### Day 8: August 25th, 2019
+### Day 8: August 27th, 2019
 
 **Today's Progress**: 
 
