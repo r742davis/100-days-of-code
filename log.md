@@ -94,13 +94,13 @@ ___
 * [React Section 166](https://www.udemy.com/react-the-complete-guide-incl-redux/learn/lecture/8109040#overview)
 ___
 
-### Day 8: August 27th, 2019
+### Day 8: October 19th, 2019
 
-**Today's Progress**: 
+**Today's Progress**: Built CSS Animations and Algorithm Challenges
 
-**Thoughts:** 
+**Thoughts:** I took a hiatus from coding for a little bit to save my mental state. I felt like I was quickly losing enthusiasm and my progress was suffering as a result. I've been teaching online over these weeks, so I have been technically coding at least 3 times a week for the classes and the homework grading. I feel refreshed now, so I'm jumping back into the swing of things with some small CSS and algorithm challenges.
 
-**Link(s) to work:** 
+**Link(s) to work:** https://repl.it/@r742davis/Counting-Valleys 
 ___
 
 ### Day 9: August 25th, 2019
